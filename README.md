@@ -1,3 +1,15 @@
+<img width="1903" height="904" alt="image" src="https://github.com/user-attachments/assets/c4eec789-bcb7-4fd2-ad53-3c8a0e68e5b7" />
+<img width="1892" height="901" alt="image" src="https://github.com/user-attachments/assets/5cfcaf85-9c02-411c-819e-1b9f10016724" />
+<img width="1900" height="905" alt="image" src="https://github.com/user-attachments/assets/426b5880-3829-43ad-a6d1-30c2c7f18d44" />
+<img width="1893" height="887" alt="image" src="https://github.com/user-attachments/assets/b65f6d3e-6584-47a5-b60f-28be613490e1" />
+<img width="1898" height="904" alt="image" src="https://github.com/user-attachments/assets/b6f8bf47-9b01-4c7a-afd5-4c1534a58e35" />
+<img width="1915" height="889" alt="image" src="https://github.com/user-attachments/assets/9621a01a-cfc6-457c-bd2d-7bcc78e302ef" />
+<img width="1887" height="902" alt="image" src="https://github.com/user-attachments/assets/9dfbb4b6-2258-4281-9b8d-486d15479a70" />
+<img width="1899" height="899" alt="image" src="https://github.com/user-attachments/assets/e1e629fc-6f6d-458f-b7ea-41d88201bd6a" />
+<img width="1904" height="887" alt="image" src="https://github.com/user-attachments/assets/6fb63635-d660-41fe-aa56-05de96dde0ad" />
+<img width="1883" height="886" alt="image" src="https://github.com/user-attachments/assets/271dade1-1ff8-4bd1-bad1-3845a77cf387" />
+<img width="1906" height="889" alt="image" src="https://github.com/user-attachments/assets/c4459b1f-d5b7-4d22-a514-7f0fec472c24" />
+
 # Visiyon AI
 
 A self-hosted AI assistant platform for Ubuntu Server 22.04, powered by Ollama.
